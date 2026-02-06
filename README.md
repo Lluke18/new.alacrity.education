@@ -1,6 +1,7 @@
-# Payload Website Template
+# Payload Website Template + TailwindCSS and DaisyUI Starter
 
-This is the official [Payload Website Template](https://github.com/payloadcms/payload/blob/main/templates/website). Use it to power websites, blogs, or portfolios from small to enterprise. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
+This is an unofficial PayloadCMS Template that comes with DaisyUI as a TailwindCSS wrapper and UI Library. For the sake of simplicity it coexists with the radix ui.
+It. Use it to power websites, blogs, or portfolios from small to enterprise. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
 
 This template is right for you if you are working on:
 
